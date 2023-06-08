@@ -1,2 +1,2 @@
-# Game-Final TA
+# Game-Final
  PETRI NET
